@@ -17,6 +17,7 @@
 - Git.
 - Agile.
 - JavaScript.
+- Java.
 - C++.
 
 ## 📫 How can you reach me:
@@ -44,6 +45,7 @@ you can find me at gabriel73@gmail.com or through my linkedin bellow ⬇.
 - Git.
 - Agile.
 - JavaScript.
+- Java.
 - C++.
 
 ## 📫 Como entrar em contato comigo:

@@ -5,6 +5,7 @@
 - I'm a student of Software Engineering on the University of Brasília(UnB).
 
 ## What am i interested in:
+- Back-End
 - Game Development.
 - Movies.
 
@@ -33,6 +34,7 @@ you can find me at gabriel73@gmail.com or through my linkedin bellow ⬇.
 - Eu sou estudante de Engenharia de Software na Universidade de Brasília(UnB).
 
 ## Quais são meus interesses:
+- Back-End
 - Desenvolvimento de Jogos.
 - Filmes.
 

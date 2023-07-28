@@ -14,11 +14,13 @@
 - Assembly.
 - JavaScript
 - C/C++
+- Html/CSS
   
 ## What have i had experience with:
 - Git.
 - Agile.
 - JavaScript.
+- Html/CSS
 - Java.
 - C/C++.
 
@@ -44,11 +46,13 @@ you can find me at gabriel73@gmail.com or through my linkedin bellow ⬇.
 - Assembly.
 - JavaScript
 - C/C++
+- Html/CSS
 
 ## Com o que já tive experiência:
 - Git.
 - Agile.
 - JavaScript.
+- Html/CSS
 - Java.
 - C/C++.
 - 

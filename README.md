@@ -12,14 +12,15 @@
 ## What am i currrently learning:
 - Data Structures.
 - Assembly.
-- Python.
-
+- JavaScript
+- C/C++
+  
 ## What have i had experience with:
 - Git.
 - Agile.
 - JavaScript.
 - Java.
-- C++.
+- C/C++.
 
 ## 📫 How can you reach me:
 
@@ -39,17 +40,18 @@ you can find me at gabriel73@gmail.com or through my linkedin bellow ⬇.
 - Filmes.
 
 ## O que estou aprendendo agora:
-- Estrutura de Dados.
+- Data Structures.
 - Assembly.
-- Python.
+- JavaScript
+- C/C++
 
 ## Com o que já tive experiência:
 - Git.
 - Agile.
 - JavaScript.
 - Java.
-- C++.
-
+- C/C++.
+- 
 ## 📫 Como entrar em contato comigo:
 
 - Você pode me achar atravéz do email: gabriel73@gmail.com ou atravéz da minha página no Linkedin abaixo ⬇.

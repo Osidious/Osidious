@@ -2,8 +2,6 @@
 
 # Hi there 👋 <br/> I'm Renato Gabriel<img src="https://user-images.githubusercontent.com/76188480/205390271-7bf0d886-7cda-42a3-869e-2118a66e5c36.gif" width="50">
 
-- I'm a student of Software Engineering on the University of Brasília(UnB).
-
 ## What am i interested in:
 - Back-End
 - Game Development.
@@ -12,6 +10,7 @@
 ## What am i currrently learning:
 - Data Structures.
 - Assembly.
+- C#
 - JavaScript
 - C/C++
 - Html/CSS
@@ -21,7 +20,7 @@
 - Agile.
 - JavaScript.
 - Html/CSS
-- Java.
+- Java/C#.
 - C/C++.
 
 ## 📫 How can you reach me:
@@ -32,10 +31,6 @@ you can find me at gabriel73@gmail.com or through my linkedin bellow ⬇.
 
 ### 
 
-# Olá, 👋 <br/> Eu sou o Renato Gabriel<img src="https://user-images.githubusercontent.com/76188480/205390271-7bf0d886-7cda-42a3-869e-2118a66e5c36.gif" width="50">
-
-- Eu sou estudante de Engenharia de Software na Universidade de Brasília(UnB).
-
 ## Quais são meus interesses:
 - Back-End
 - Desenvolvimento de Jogos.
@@ -44,6 +39,7 @@ you can find me at gabriel73@gmail.com or through my linkedin bellow ⬇.
 ## O que estou aprendendo agora:
 - Data Structures.
 - Assembly.
+- C#
 - JavaScript
 - C/C++
 - Html/CSS
@@ -53,7 +49,7 @@ you can find me at gabriel73@gmail.com or through my linkedin bellow ⬇.
 - Agile.
 - JavaScript.
 - Html/CSS
-- Java.
+- Java/C#.
 - C/C++.
 - 
 ## 📫 Como entrar em contato comigo:
